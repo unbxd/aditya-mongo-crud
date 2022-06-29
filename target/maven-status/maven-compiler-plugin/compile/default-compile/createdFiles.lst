@@ -1,0 +1,7 @@
+com/example/CRUD/MongoCrudApiApplication.class
+com/example/CRUD/controller_student.class
+com/example/CRUD/repository_student.class
+com/example/CRUD/student.class
+com/example/CRUD/subject.class
+com/example/CRUD/service_student.class
+com/example/CRUD/department.class
